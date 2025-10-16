@@ -1,5 +1,14 @@
 # 🏠 AirBnB Clone Project
 
+## 🧭 Project Initialization
+
+This repository contains my AirBnB Clone project — a full-stack web application that allows users to browse property listings, view details, and complete bookings.
+
+**Project Goals:**
+- Build a responsive, user-friendly booking interface  
+- Practice frontend development skills with React  
+- Understand full-stack collaboration and version control  
+
 ## 🎯 Project Overview
 The goal of this project is to build a functional AirBnB clone that allows users to browse properties, view details, and complete bookings.
 
