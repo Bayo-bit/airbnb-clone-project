@@ -1,48 +1,88 @@
-# Airbnb Clone Project
+# 🏠 AirBnB Clone Project
 
-## 🏠 Project Overview
-This project is a full-stack clone of the popular accommodation platform **Airbnb**.  
-The goal is to build a functional web application that allows users to browse property listings, view detailed information, and complete bookings.
+## 🎯 Project Overview
+The goal of this project is to build a functional AirBnB clone that allows users to browse properties, view details, and complete bookings.
 
-## 🎯 Project Goals
-- Implement responsive and accessible user interfaces
-- Develop reusable UI components
-- Learn component-based frontend architecture
-- Practice collaboration using Git and GitHub
+**Tech Stack:**  
+Frontend – HTML, CSS, JavaScript (React)  
+Design – Figma  
+Version Control – Git & GitHub
 
-## 🧰 Tech Stack
-**Frontend:** HTML, CSS, JavaScript (React)  
-**Design Tools:** Figma  
-**Version Control:** Git & GitHub 
+---
 
 ## 🎨 UI/UX Design Planning
 
-### 🖌️ Color Styles
-- **Primary Color:** #FF5A5F  
-- **Secondary Color:** #008489  
-- **Background Color:** #FFFFFF  
-- **Text Color:** #222222  
-- **Secondary Text Color:** #717171  
+**Design Goals:**  
+- Create an intuitive booking flow  
+- Maintain visual consistency  
+- Ensure fast loading and mobile responsiveness  
 
-### 🔤 Typography
-- **Primary Font:** Circular  
-- **Font Weights:**  
-  - Bold (700) for headings  
-  - Medium (500) for subheadings  
-  - Book (400) for body text  
-- **Font Sizes:**  
-  - Headings: 24px–32px  
-  - Body: 16px  
-  - Secondary Text: 14px  
+**Key Features:**  
+- Property search and filtering  
+- Detailed property view  
+- Simple checkout process  
 
-### 💡 Importance of Identifying Design Properties
-Identifying design properties like color, typography, and spacing helps maintain **visual consistency** across all pages.  
-It ensures that developers and designers speak the same visual language.  
-By understanding the Figma mockup’s design system, front-end developers can:
-- Recreate the same look and feel in code  
-- Improve user experience through consistent design  
-- Reduce confusion and rework during development  
-- Build reusable components that follow the same style guide
+**Primary Pages:**
 
-## 👩‍💻 Author
-**ADE** – Front-End Developer
+| Page | Description |
+|------|--------------|
+| Property Listing View | Displays available properties with filters |
+| Listing Detailed View | Shows full property details and booking form |
+| Simple Checkout View | Handles payment and confirmation |
+
+**Importance of User-Friendly Design:**  
+A clean, responsive interface improves usability and customer satisfaction.
+
+---
+
+## 🎨 More UI/UX Design Planning
+
+**Color Styles:**  
+Primary – #FF5A5F  
+Secondary – #008489  
+Background – #FFFFFF  
+Text – #222222  
+Secondary Text – #717171  
+
+**Typography:**  
+Font: Circular  
+Weights: 400 (Book), 500 (Medium), 700 (Bold)  
+Size: 14px–32px  
+
+**Why Identify Design Properties:**  
+They ensure consistency, improve collaboration, and help match Figma mockups accurately.
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+**Frontend Developer (My Role):**  
+- Build user interface using HTML, CSS & React  
+- Translate Figma designs into responsive components  
+- Test and debug UI for a smooth user experience  
+
+**Other Roles:**  
+Project Manager – Oversees progress  
+Backend Dev – Builds APIs and data logic  
+Designer – Creates mockups and design system  
+QA/Testers – Identify and fix bugs  
+DevOps – Manages deployment  
+Product Owner – Defines priorities  
+Scrum Master – Supports agile process
+
+---
+
+## 🧩 UI Component Patterns
+
+**Planned Components:**  
+- **Navbar:** Logo, search bar, user menu  
+- **Property Card:** Image, price, rating, and location  
+- **Footer:** Links, info, and social icons  
+
+Each component will be reusable, consistent, and responsive across all views.
+
+---
+
+✅ **Repository:** `airbnb-clone-project`  
+📄 **File:** `README.md`
+
