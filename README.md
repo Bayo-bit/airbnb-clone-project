@@ -58,6 +58,11 @@ Font: Circular
 Weights: 400 (Book), 500 (Medium), 700 (Bold)  
 Size: 14px–32px  
 
+**Importance of Identifying Design Properties of a Mock-Up Design**
+Identifying design properties such as colors, typography, and spacing helps maintain visual consistency across all pages.
+It allows developers to accurately translate the Figma mock-up into code and ensures the final product looks and feels like the original design.
+It also improves collaboration between designers and developers, reduces rework, and creates a more professional, user-friendly interface.
+
 **Why Identify Design Properties:**  
 They ensure consistency, improve collaboration, and help match Figma mockups accurately.
 
@@ -86,12 +91,9 @@ Scrum Master – Supports agile process
 **Planned Components:**  
 - **Navbar:** Logo, search bar, user menu  
 - **Property Card:** Image, price, rating, and location  
-- **Footer:** Links, info, and social icons  
+- **Footer:** Links, Company info, copyright information and social icons  
 
 Each component will be reusable, consistent, and responsive across all views.
 
 ---
-
-✅ **Repository:** `airbnb-clone-project`  
-📄 **File:** `README.md`
 
