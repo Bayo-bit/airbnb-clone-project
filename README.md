@@ -79,15 +79,33 @@ They ensure consistency, improve collaboration, and help match Figma mockups acc
 - Test and debug UI for a smooth user experience  
 
 **Other Roles:**  
-Project Manager – Oversees progress  
-Backend Dev – Builds APIs and data logic  
-Designer – Creates mockups and design system  
-QA/Testers – Identify and fix bugs  
-DevOps – Manages deployment  
-Product Owner – Defines priorities  
-Scrum Master – Supports agile process
+Project Manager
 
----
+plans, schedules, tracks progress, coordinates teams, manages scope, risk, communication, timelines, resources, deliverables, goals, reports, alignment, meetings, guidance
+
+Backend Developer
+
+APIs, databases, authentication, server logic, integrations, performance, security, debugging, queries, frameworks, architecture, versioning, scalability, deployments, reliability
+
+Designer
+
+wireframes, mockups, typography, color, UI, UX, research, accessibility, layout, icons, consistency, style, branding, interactions, polish
+
+QA / Testers
+
+testcases, automation, bugs, regression, validation, verification, reports, quality, coverage, scenarios, analysis, accuracy, performance, standards, improvement
+
+DevOps Engineer
+
+deployment, CI/CD, pipelines, cloud, monitoring, automation, scalability, infrastructure, networking, containers, logs, uptime, alerts, security, reliability
+
+Product Owner
+
+vision, userstories, priorities, backlog, roadmap, value, business goals, feedback, refinement, requirements, alignment, decisions, strategy, outcomes, acceptancecriteria
+
+Scrum Master
+
+facilitation, coaching, standups, retrospectives, sprintplanning, transparency, impediment removal, collaboration, communication, motivation, focus, teamwork, improvement, agility, accountability
 
 ## 🧩 UI Component Patterns
 
